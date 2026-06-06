@@ -3,8 +3,39 @@
 //subscription-userinfo: upload=5368709120; download=117037858816; total=999999999999; expire=9999999999
 #profile-web-page-url: Aria
 
-vless://c7addea9-6d8a-48d6-8a00-aa99b8ece143@127.0.0.1:40443?encryption=none&security=tls&sni=ws35.adsvxpro.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=ws35.adsvxpro.com&path=%2Fpath#%F0%9F%87%A8%F0%9F%87%A650403%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%40meliproxyy
-vless://d8c05f47-6ca7-4c6a-badf-b7e5e818699c@127.0.0.1:40443?encryption=none&security=tls&sni=noiZvPn.aSAd13321.wORkers.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiM25HVThlWGhhcThVT3g2ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A650427%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-vless://d3c88e05-8df2-46ea-8205-65c5c86bb6fd@127.0.0.1:40443?encryption=none&security=tls&sni=PEZesHkIaN.jEnde.woRkers.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiOWxyNGZ2OFpTNGdGeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%B750428%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-vless://45c8b2f4-343c-4d37-99d2-59cb13e6c7fb@127.0.0.1:40443?encryption=none&security=tls&sni=peDarET.BaBJOON.WOrKErs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiQmtnQkhTSzYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A650429%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
+# VLESS WS @whiteDNS
+vless://1ec4df26-5cd2-4f4c-aeac-8514f6b4c3d7@vpn.testsoratinternet.ir:443?type=ws&security=tls&encryption=none&path=%2Ftp-8dd78ebc&host=vpn.testsoratinternet.ir&sni=vpn.testsoratinternet.ir&fp=chrome#VLESS%20WS%20@whiteDNS
+
+# VLESS WS 8443 @whiteDNS
+vless://b567c13c-0938-41f3-b337-0c64a1cb95a9@trojan.testsoratinternet.ir:8443?type=ws&security=tls&encryption=none&path=%2Ftp-f1a650a5&host=trojan.testsoratinternet.ir&sni=trojan.testsoratinternet.ir&fp=chrome#VLESS%20WS%208443%20@whiteDNS
+
+# Hysteria2 @whiteDNS
+hysteria2://q3IeiyHY30wneVC5_Nva1f2o2w8hMjUK@hy2.testsoratinternet.ir:443?sni=hy2.testsoratinternet.ir&alpn=h3&obfs=salamander&obfs-password=EFJkoOwGXcKC9BqtqSa07v7A7mP8SOVr#Hysteria2%20@whiteDNS
+
+# Direct VLESS @whiteDNS
+vless://c8782261-9166-4df7-a6ea-40509484e972@direct.testsoratinternet.ir:2087?type=tcp&security=tls&encryption=none&sni=direct.testsoratinternet.ir&fp=chrome#Direct%20VLESS%20@whiteDNS
+
+# Reality XHTTP @whiteDNS
+vless://4c950825-503f-46a5-85e3-4a9e36308410@reality.testsoratinternet.ir:2083?type=xhttp&security=reality&encryption=none&sni=apple.com&fp=chrome&pbk=DZyPNWzwTdnKToKC4hCa-2TnvtlijZNSQfu2lhIk8S0&sid=130f842a2b1c7792&path=%2F#Reality%20XHTTP%20@whiteDNS
+
+# Shadowsocks @whiteDNS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Nm9zajR3S283ZmgwcDAreURJamEvTFRJVEtUTlNGdHdWOHI5amVReENkQT06QThtdHM5ZjR3MDBpRDhLZWI2M1dxTHdjb3VYS0VIb1c1Z3dZQm9CV1EyST0@ss.testsoratinternet.ir:8388?type=tcp#Shadowsocks%20@whiteDNS
+
+# VLESS WS Tor @whiteDNS
+vless://6214045d-aa94-4c16-be02-2252d2820c9e@tor-vless-ws.testsoratinternet.ir:2097?type=ws&security=tls&encryption=none&path=%2Ftp-8dd78ebc&host=tor-vless-ws.testsoratinternet.ir&sni=tor-vless-ws.testsoratinternet.ir&fp=chrome#VLESS%20WS%20Tor%20@whiteDNS
+
+# VLESS WS 8443 Tor @whiteDNS
+vless://44e2ea57-6aad-46d5-b20a-f5bd516f3d9c@tor-vless-ws-8443.testsoratinternet.ir:2098?type=ws&security=tls&encryption=none&path=%2Ftp-f1a650a5&host=tor-vless-ws-8443.testsoratinternet.ir&sni=tor-vless-ws-8443.testsoratinternet.ir&fp=chrome#VLESS%20WS%208443%20Tor%20@whiteDNS
+
+# Hysteria2 Tor @whiteDNS
+hysteria2://wdEfpHOVSk_eQEbvM64ZlL1p05rSs_i6@tor-hy2.testsoratinternet.ir:2099?sni=tor-hy2.testsoratinternet.ir&alpn=h3&obfs=salamander&obfs-password=F-EqtARQ1fwgCrB4E661rEQXbII59ZLW#Hysteria2%20Tor%20@whiteDNS
+
+# Direct VLESS Tor @whiteDNS
+vless://7e931754-893d-4518-b6af-0a7c65c016a7@tor-direct.testsoratinternet.ir:2100?type=tcp&security=tls&encryption=none&sni=tor-direct.testsoratinternet.ir&fp=chrome#Direct%20VLESS%20Tor%20@whiteDNS
+
+# Reality XHTTP Tor @whiteDNS
+vless://baceb137-0baa-4906-b394-b7bc9084d0e5@tor-reality.testsoratinternet.ir:2101?type=xhttp&security=reality&encryption=none&sni=docker.com&fp=chrome&pbk=Z6MhUn51E3pYoKJ6BMgGCyjGPKCq33rcZR-UUy2Tfx8&sid=90f8592625b6ae43&path=%2F#Reality%20XHTTP%20Tor%20@whiteDNS
+
+# Shadowsocks Tor @whiteDNS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206anFmOVVDaFRiR3VQVjBrUGtHMld2bEJQZlRJQWZOV1Nyc3B2MjY5SXZSOD06Rjcwd0JGKzd5S3drS0k1NEhpaWtQRlNLaUhnM2Rtck5xMUVoQnZEL1g0UT0@tor-ss.testsoratinternet.ir:8390?type=tcp#Shadowsocks%20Tor%20@whiteDNS
+
